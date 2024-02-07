@@ -4,6 +4,17 @@
 // DNA to RNA Conversion
 
 // function DNAtoRNA(dna) {
+//     let seperate = dna.split("");
+
+//     for (let i = 0; i < seperate.length; i++) {
+//         if (seperate[i] == "T") {
+//             seperate[i] = "U";
+//         }
+//     }
+// }
+
+// wpu
+// function DNAtoRNA(dna) {
 //     let seperate = dna.split('');
 
 //     for(let i = 0; i < seperate.length; i++) {
